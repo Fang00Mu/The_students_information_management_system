@@ -1,7 +1,7 @@
 # The_students_information_management_system
 The_students_information_management_system by C .小白用C语言写的学生信息管理系统，模仿项目格式写的。
 
-这个项目的初衷是给新手一个参考样本，如果有更好的想法，可以( "pull request") or ("issue")
+这个项目的初衷是记录自己的代码生活以及给新手一个参考样本，如果有更好的想法，可以( "pull request") or ("issue")
 尚未完成的部分功能和优化，我会抽空完成。
 
 // 程序编译和执行环境说明
