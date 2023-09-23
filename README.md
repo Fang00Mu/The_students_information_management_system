@@ -1,0 +1,2 @@
+# The_students_information_management_system
+The_students_information_management_system by C .小白用C语言写的学生信息管理系统，模仿项目格式写的。
